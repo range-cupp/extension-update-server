@@ -1,0 +1,5 @@
+{
+  "version": "1.5.0",
+  "notes": "Enhanced DOB filling with 7 strategies, removed broken GHL API search, all 30+ calendars mapped",
+  "downloadUrl": "https://app.range-medical.com/api/extension/download"
+}
