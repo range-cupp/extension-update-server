@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "notes": "Enhanced DOB filling with 7 strategies, removed broken GHL API search, all 30+ calendars mapped",
-  "downloadUrl": "https://app.range-medical.com/api/extension/download"
+  "version": "1.6.0",
+  "notes": "NEW: Sync PF calendar appointments to GHL with one click",
+  "downloadUrl": "https://extension-update-server.vercel.app/api/extension/download"
 }
